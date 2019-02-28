@@ -1,3 +1,4 @@
 <?php
-  phpinfo()
+  phpinfo();
+  echo "这是一个修改"！
 ?>
